@@ -13,6 +13,8 @@ $recoed['blusher'] = 'one';
 $recoed['beak'] = 'one';
 $recoed['wing'] = 'one';
 
+
+
 if (!empty($_GET['k']) && $_GET['k'] != '')
 {
 	$token = base64_decode($_GET['k']);

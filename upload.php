@@ -1,4 +1,5 @@
 <?php
+
 // 照片處理
 $rename_img = "";
 $resize_ori_Img = "";
